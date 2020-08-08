@@ -1,1 +1,1 @@
-# damage-prediction-in-jalore-granite :sleepy:
+# damage-prediction-in-jalore-granite
